@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17511" systemVersion="19H15" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Food_Item" representedClassName="Food_Item" syncable="YES">
+        <attribute name="idMeal" optional="YES" attributeType="String"/>
+        <attribute name="strArea" optional="YES" attributeType="String"/>
+        <attribute name="strCategory" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient1" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient2" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient3" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient4" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient5" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient6" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient7" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient8" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient9" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient10" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient11" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient12" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient13" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient14" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient15" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient16" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient17" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient18" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient19" optional="YES" attributeType="String"/>
+        <attribute name="strIngredient20" optional="YES" attributeType="String"/>
+        <attribute name="strInstructions" optional="YES" attributeType="String"/>
+        <attribute name="strMeal" optional="YES" attributeType="String"/>
+        <attribute name="strMealThumb" optional="YES" attributeType="String"/>
+        <attribute name="strTags" optional="YES" attributeType="String"/>
+        <attribute name="strYoutube" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Food_Item" positionX="-63" positionY="-18" width="128" height="463"/>
+    </elements>
+</model>
